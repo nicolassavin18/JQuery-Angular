@@ -20,7 +20,7 @@
     "engine": "node *",
     "repository": {
         "type": "git",
-        "url": "https://github.com/winner12263/jquery-mobile-angular-adapter.git"
+        "url": ""
     },
     "keywords": [],
     "scripts": {
